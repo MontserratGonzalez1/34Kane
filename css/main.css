@@ -23,7 +23,15 @@ li {
 	margin-top: 20px;
 }
 
+input {
+	width: 600px;
+	margin-top: 10px;
+	margin-left: 300px;
+}
 
+.input-mensaje {
+	height: 200px;
+}
 
 	/* COLORES */
 .tamaño{
@@ -68,7 +76,7 @@ li {
 }
 
 .back-verde {
-	background-color: #2adf7f;
+	background-color: #28bd6e;
 }
 
 /* EXTRAS*/
@@ -95,6 +103,10 @@ li {
 
 .bottom30 {
 	margin-bottom: 30px;
+}
+
+.left200 {
+	margin-left: 200px;
 }
 
 .pad-left {
