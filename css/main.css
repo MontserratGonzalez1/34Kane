@@ -1,0 +1,68 @@
+header {
+	background-color: #008516;
+}
+
+#back1 {
+	background-image: url("../img/carousel-bg.jpg");
+	background-size: cover;
+	color: #fff;
+	text-align: center;
+
+}
+
+ul {
+	list-style: none;
+}
+
+
+li {
+	display: inline-block;
+}
+
+
+	/* COLORES */
+.tamaño{
+	width:;
+	height:;
+}
+
+#C-69D2E7 {
+	background-color: #69D2E7;
+}
+#C-A7DBDB {
+	background-color: #A7DBDB;
+}
+#C-E0E4CC {
+	background-color: #E0E4CC;
+}
+#C-F38630 {
+	background-color: #F38630;
+}
+#C-FA6900 {
+	background-color: #FA6900;
+}
+#C-E94C6F {
+	background-color: #E94C6F;
+}
+#C-542733 {
+	background-color: #542733;
+}
+#C-5A6A62 {
+	background-color: #5A6A62;
+}
+#C-C6D5CD {
+	background-color: #C6D5CD;
+}
+#C-FDF200 {
+	background-color: #FDF200;
+}
+
+
+
+
+
+/* EXTRAS*/
+
+.te-center {
+	text-align: center;
+}
