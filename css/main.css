@@ -33,6 +33,7 @@ input {
 	height: 200px;
 }
 
+
 	/* COLORES */
 .tamaño{
 	height:150px;
@@ -79,6 +80,21 @@ input {
 	background-color: #28bd6e;
 }
 
+.back-redes {
+	background-image: url("../img/img-divider-img.jpg");
+	background-size: cover;
+}
+
+.redes {
+	width: 100px;
+	height:100px;
+	margin-left: 50px;
+}
+
+.mail-footer {
+	width: 200px;
+}
+
 /* EXTRAS*/
 
 .te-center {
@@ -111,6 +127,10 @@ input {
 
 .pad-left {
 	padding-left: 100px;
+}
+
+.pad-left200 {
+	padding-left: 200px;
 }
 
 .pad-bt {
