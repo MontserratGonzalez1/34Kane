@@ -136,3 +136,47 @@ input {
 .pad-bt {
 	padding-bottom: 100px;
 }
+
+	/* MEDIA */
+
+@media screen and (max-width: 992px) {
+	ul {
+		display: none;
+
+	}
+
+	h2 {
+		font-size: 1em;
+	}	
+
+	.titulo {
+		font-size: 2em;
+	}
+
+	.tamaño{
+		width:100%;
+  	}
+
+  	.renglon2 {
+  		display: none;
+  	}
+
+  	.icon {
+  		margin-left: 30%;
+  	}
+
+  	input {
+		width: 100%;
+		margin-top: 10px;
+		margin-left: 0px;
+	}
+
+	.redes {
+		width: 50%;
+		height: 50%;
+		display: block;
+		margin-top: 10px;
+		
+	}
+
+}
